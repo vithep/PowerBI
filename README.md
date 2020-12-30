@@ -2,7 +2,7 @@
 ***
 ## Projetos desenvolvidos utilizando o software Power BI
 
-Os projetos encontrados nesse repositório são referentes á aos projetos que foram desenvolvidos durante o meu aprendizado com a ferramenta, tendo também projetos de minha autoria. 
+Os projetos encontrados nesse repositório são referentes aos projetos que foram desenvolvidos durante o meu aprendizado com a ferramenta, tendo também projetos de minha autoria. 
 
 
 - [X] Importação dos Dados
