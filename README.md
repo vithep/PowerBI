@@ -16,3 +16,5 @@ Dentro de cada pasta, será possivel encontrar o Dataset utilizado, assim como o
 
 
 ### [Acesse meu GitHub](https://github.com/vithep)
+
+### [Acesse meu Linkedln](https://www.linkedin.com/in/vithep)
